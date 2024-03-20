@@ -1,0 +1,1 @@
+export type IGenerateRandomIndex = (min: number, max: number) => number;
